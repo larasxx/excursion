@@ -12,6 +12,17 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42;
+}
+
+h4 {
+    font-size: 21px;
+    color: grey;
+    
+}
 a {
     color: aquamarine;
     font-size: 16px;
